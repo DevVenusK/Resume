@@ -28,6 +28,8 @@
     KingFisher 를 사용하여 Image Loading</br>
     Facebook, Kakao, Goole 에서 제공하는 로그인 및 공유기능 사용</br>
     
+    youtube: https://youtu.be/gspoevIhyIs
+    
 * ## DIBIDIBI </br>
     BRStorm, 2018.12 ~ 2019.02</br>
     DIBIDIBI Native Application 개발.
@@ -45,6 +47,8 @@
     MMPlatverView 를 이용한 동영상 제어 </br>
     Facebook, Kakao, Naver 에서 제공하는 로그인 및 공유기능 사용</br>
     
+    youtube: https://youtu.be/SsD6hHFXDLI
+    
 * ## DIBIDIBI </br>
     BRStorm, 2018.11 ~ 2018.12 </br>
     DIBIDIBI HybridApplication Refactoring
@@ -54,3 +58,5 @@
     WebView -> WKWebkit 변경</br>
     AutoLayout 을 이용한 최신기기 화면 지원</br>
     PG사 연동</br>
+    
+    youtube: https://youtu.be/VQgioIow7xA
