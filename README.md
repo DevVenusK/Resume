@@ -63,7 +63,7 @@
      
 # 활동사항
 
-* ### FAST CAMPUS 강연 </br> 
+* ### FAST CAMPUS 강연 (2019.05.28) </br> 
    개발자로 취업하는데 필요한 것들 - 이력서와 면접 
 * ### FAST CAMPUS iOS SChool 7 기 수료
 
