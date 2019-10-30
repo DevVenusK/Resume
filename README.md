@@ -21,6 +21,7 @@
     반려동물 관련 SNS 인 MAYJUNE 을 개발하고 있습니다.
     
     ### 개발
+    RxSwift, MVVM 적용 중 </br>
     Swift 를 사용하여 개발 </br>
     AutoLayout 적용</br>
     MVC Pattern 적용</br>
