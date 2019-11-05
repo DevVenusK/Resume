@@ -59,14 +59,18 @@ https://apps.apple.com/kr/app/%EB%94%94%EB%B9%84%EB%94%94%EB%B9%84-dibidibi-%EC%
     youtube: https://youtu.be/SsD6hHFXDLI
     
 * ## DIBIDIBI </br>
-    BRStorm, 2018.11 ~ 2018.12 </br>
+
+https://apps.apple.com/kr/app/%EB%94%94%EB%B9%84%EB%94%94%EB%B9%84-dibidibi-%EC%85%80%EB%9F%AC-%EC%84%B1%EC%9E%A5%ED%98%95-%EC%BB%A4%EB%A8%B8%EC%8A%A4/id1326142237
+
+
+    BRStorm, 2018.11 ~ 2018.12
     DIBIDIBI HybridApplication Refactoring
     
-    ### 개발
-    Objective-C -> Swift 변경</br>
-    WebView -> WKWebkit 변경</br>
-    AutoLayout 을 이용한 최신기기 화면 지원</br>
-    PG사 연동</br>
+    개발
+    Objective-C -> Swift 변경
+    WebView -> WKWebkit 변경
+    AutoLayout 을 이용한 최신기기 화면 지원
+    PG사 연동
     
     youtube: https://youtu.be/VQgioIow7xA
      
