@@ -21,7 +21,7 @@
 https://apps.apple.com/kr/app/mayjune/id1469522131
 
 
-    Dothat, 2019.03 ~ </br>
+    Dothat, 2019.03 ~
     반려동물 관련 SNS 인 MAYJUNE 을 개발하고 있습니다.
     
     ### 개발
