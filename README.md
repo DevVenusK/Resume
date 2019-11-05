@@ -24,14 +24,14 @@ https://apps.apple.com/kr/app/mayjune/id1469522131
     Dothat, 2019.03 ~
     반려동물 관련 SNS 인 MAYJUNE 을 개발하고 있습니다.
     
-    ### 개발
-    RxSwift, MVVM 적용 중 </br>
-    Swift 를 사용하여 개발 </br>
-    AutoLayout 적용</br>
-    MVC Pattern 적용</br>
-    Alamofire 와 Codable을 사용하여 API Parsing</br>
-    KingFisher 를 사용하여 Image Loading</br>
-    Facebook, Kakao, Goole 에서 제공하는 로그인 및 공유기능 사용</br>
+    개발
+    RxSwift, MVVM 적용 중
+    Swift 를 사용하여 개발
+    AutoLayout 적용
+    MVC Pattern 적용
+    Alamofire 와 Codable을 사용하여 API Parsing
+    KingFisher 를 사용하여 Image Loading
+    Facebook, Kakao, Goole 에서 제공하는 로그인 및 공유기능 사용
     
     youtube: https://youtu.be/gspoevIhyIs
     
@@ -40,21 +40,21 @@ https://apps.apple.com/kr/app/mayjune/id1469522131
 https://apps.apple.com/kr/app/%EB%94%94%EB%B9%84%EB%94%94%EB%B9%84-dibidibi-%EC%85%80%EB%9F%AC-%EC%84%B1%EC%9E%A5%ED%98%95-%EC%BB%A4%EB%A8%B8%EC%8A%A4/id1326142237
 
 
-    BRStorm, 2018.12 ~ 2019.02</br>
+    BRStorm, 2018.12 ~ 2019.02
     DIBIDIBI Native Application 개발.
     (개발도중 Project 중단)
     
-    ### 개발
-    SRS 작성 </br>
-    기획문서 작성 </br>
-    Swift 를 사용하여 개발 </br>
-    AutoLayout 적용</br>
-    MVC Pattern 적용</br>
-    Alamofire 와 Codable을 사용하여 API Parsing</br>
-    KingFisher 를 사용하여 Image Loading</br>
-    CollectionView Framework 대신 IGListKit 적용</br>
-    MMPlatverView 를 이용한 동영상 제어 </br>
-    Facebook, Kakao, Naver 에서 제공하는 로그인 및 공유기능 사용</br>
+    개발
+    SRS 작성 
+    기획문서 작성 
+    Swift 를 사용하여 개발 
+    AutoLayout 적용
+    MVC Pattern 적용
+    Alamofire 와 Codable을 사용하여 API Parsing
+    KingFisher 를 사용하여 Image Loading
+    CollectionView Framework 대신 IGListKit 적용
+    MMPlatverView 를 이용한 동영상 제어 
+    Facebook, Kakao, Naver 에서 제공하는 로그인 및 공유기능 사
     
     youtube: https://youtu.be/SsD6hHFXDLI
     
