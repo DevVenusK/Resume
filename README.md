@@ -54,7 +54,7 @@ https://apps.apple.com/kr/app/%EB%94%94%EB%B9%84%EB%94%94%EB%B9%84-dibidibi-%EC%
     KingFisher 를 사용하여 Image Loading
     CollectionView Framework 대신 IGListKit 적용
     MMPlatverView 를 이용한 동영상 제어 
-    Facebook, Kakao, Naver 에서 제공하는 로그인 및 공유기능 사
+    Facebook, Kakao, Naver 에서 제공하는 로그인 및 공유기능 사용
     
     youtube: https://youtu.be/SsD6hHFXDLI
     
