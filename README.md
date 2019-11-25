@@ -5,10 +5,14 @@
 * Blog: https://medium.com/devvenusk
 
 # 경력
- 
+
+* ## MAXST </br>
+    iOS Developer </br> 
+    2019.11 ~ 
+
 * ## Dothat </br>
     iOS Developer </br> 
-    2019.03 ~
+    2019.03 ~ 2019.11
     
 * ## BRStorm </br>
     iOS Developer </br>
