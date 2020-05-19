@@ -19,7 +19,11 @@
     2018.11 ~ 2019.02
  
 # 프로젝트
+* ## AR App </br>
 
+    Dothat, 2020.11 ~
+    자체 ARSDK 를 활용한 B2B 앱 개발 중
+    
 * ## MAYJUNE </br>
 
 https://apps.apple.com/kr/app/mayjune/id1469522131
