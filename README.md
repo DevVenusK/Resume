@@ -21,8 +21,12 @@
 # 프로젝트
 * ## AR App </br>
 
-    Dothat, 2020.11 ~
+    MAXST, 2020.11 ~
     자체 ARSDK 를 활용한 B2B 앱 개발 중
+    WebRTC
+    Data Channel
+    ReplayKit
+    Websocket
     
 * ## MAYJUNE </br>
 
