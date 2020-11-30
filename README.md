@@ -23,10 +23,13 @@
 
     MAXST, 2019.11 ~
     자체 ARSDK 를 활용한 B2B 앱 개발 중
-    WebRTC
-    Data Channel
-    ReplayKit
-    Websocket
+    AR Support Application MAXWORK iOS 개발
+    Alamofire 를 이용한 NetworkModule 개발
+    StarScream 을 이용한 Websocket Manager 개발
+    Autolayout 을 이용한 UI 개발
+    WebRTC의 DataChannel 개발
+    MVC Pattern 적용, MVVM 으로 Refactoring 중
+    Unit Test Code 작성
     
 * ## MAYJUNE </br>
 
